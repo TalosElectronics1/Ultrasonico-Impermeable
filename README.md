@@ -1,2 +1,2 @@
-# Ultras-nico-Impermeable
+# Ultrasonico-Impermeable
 Ultrasónico Impermeable
